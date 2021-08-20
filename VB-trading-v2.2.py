@@ -2,8 +2,8 @@ import time
 import pyupbit
 import datetime
 
-access = "OtkVxrcbD942wwx15frEyOM5PAGEhDaIXLBmi0lt"
-secret = "XYngSUtQTUxXBpXOopRh3Rtjc3xNbhS087LLdx71"
+access = ""
+secret = ""
 coin_list = ['KRW-BTC', 'KRW-LTC', 'KRW-ETC', 'KRW-ETH', 'KRW-EOS']
 coin_shortlist = ['BTC', 'LTC', 'ETC', 'ETH', 'EOS']
 
