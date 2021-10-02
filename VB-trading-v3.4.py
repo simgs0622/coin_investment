@@ -4,8 +4,8 @@ import datetime
 import numpy as np
 import pandas as pd
 
-access = "OtkVxrcbD942wwx15frEyOM5PAGEhDaIXLBmi0lt"
-secret = "XYngSUtQTUxXBpXOopRh3Rtjc3xNbhS087LLdx71"
+access = ""
+secret = ""
 krw_tickers = pyupbit.get_tickers("KRW")
 
 candidate_list = []
