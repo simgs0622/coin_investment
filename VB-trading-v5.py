@@ -61,7 +61,7 @@ while True:
     try:
         base = 9
         now = datetime.datetime.now()
-        print(now, buy_check)
+#         print(now, buy_check)
 
         start_times = []
         for coin in coin_list:
