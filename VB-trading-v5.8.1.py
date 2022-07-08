@@ -10,8 +10,8 @@ buy_check = {'KRW-BTC': [0, 0, 0], 'KRW-ETH': [0, 0, 0], 'KRW-MBL': [1, 1, 1]}
 update_check = [0, 0, 0]
 
 # 로그인
-access = "OtkVxrcbD942wwx15frEyOM5PAGEhDaIXLBmi0lt"
-secret = "XYngSUtQTUxXBpXOopRh3Rtjc3xNbhS087LLdx71"
+access = "V1tlqcowWqOfc7BBvC2v643EgBxfxKvT412PPaw1"
+secret = "STgC0FHvjKcey0i89IZGKo1KpVGG3ECB7Ua0KhsA"
 upbit = pyupbit.Upbit(access, secret)
 
 def get_target_price(ticker, k, base):
